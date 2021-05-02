@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #1b1717;
+}
+
+h1 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-family: Lucida Console;
+  font-size: 5rem;
+  color: #eeebdd;
+}
+
+p {
+  font-size: 2rem;
+  color: #ce1212;
+  font-family: Monaco;
+}
+
+img {
+  width: 80%;
+}
+
+footer span{
+  background-color: #eeebdd;
+  margin: 1%;
+  color: #bfcba8;
+  font-family: Times New Roman;
+ font-size: 30px;
+ color: #1b1717;
+}
+footer p {
+    text-align: center;
+      margin-top: 5%;
+}
